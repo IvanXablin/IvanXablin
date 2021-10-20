@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi therem, My name is Ivan 👋
+- Intern backend developer.
+- 18 y.o.
+- from Novosibirsk, Russia.
+- +7 UTC, +4 MSK.
 
-<!--
-**IvanXablin/ivanxablin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack 🔨
+- Basic PHP Python, C#, MySQL
 
-Here are some ideas to get you started:
+## Education 🎓
+- HCI NSU - 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts 📞
+- [VK] https://vk.com/xab_xab
+- [E-mail] - amdandpc67890@gmail.com
