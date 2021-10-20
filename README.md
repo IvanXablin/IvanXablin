@@ -1,4 +1,4 @@
-### Hi there! My name is Ivan 👋
+### Hi there! 👋 My name is Ivan
 - Intern backend developer.
 - 18 y.o.
 - from Novosibirsk, Russia.
