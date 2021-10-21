@@ -5,7 +5,7 @@
 - +7 UTC, +4 MSK.
 
 ## Stack 🔨
-- Basic: PHP, OOP Python, C#, MySQL, git
+- Basic: PHP, OOP, Python, C#, MySQL, git
 
 ## Education 🎓
 - HCI NSU - 2019
