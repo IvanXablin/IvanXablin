@@ -8,7 +8,7 @@
 - Basic: PHP, OOP, Python, C#, MySQL, git
 
 ## Education 🎓
-- HCI NSU - 2019
+- HCI NSU - 2023
 
 ## Contacts 📞
 - [VK] https://vk.com/xab_xab
