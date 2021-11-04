@@ -1,11 +1,8 @@
 ### Hi there! 👋 My name is Ivan
 - Intern backend developer.
-- 18 y.o.
-- from Novosibirsk, Russia.
-- +7 UTC, +4 MSK.
 
-## Stack 🔨
-- Basic: PHP, OOP, Python, C#, MySQL, git
+## My Skills 🔨
+PHP, OOP, Bitrix, Python, C#, MySQL, git
 
 ## Education 🎓
 - HCI NSU - 2023
