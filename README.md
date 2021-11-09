@@ -1,5 +1,5 @@
-### Hi there! 👋 My name is Ivan
-- Intern backend developer.
+
+Intern backend developer.
 
 ## My Skills 🔨
 PHP, OOP, Bitrix, Python, C#, MySQL, git
