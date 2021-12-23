@@ -1,8 +1,7 @@
 
-Intern backend developer.
 
 ## My Skills 🔨
-PHP, OOP, Bitrix, Python, C#, MySQL, git
+C#, OOP, MSSQL, Python, git
 
 ## Education 🎓
 - HCI NSU - 2023
