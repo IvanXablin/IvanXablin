@@ -9,3 +9,4 @@ C#, OOP, WPF, MS SQL Server, WinForms, git
 ## Contacts 📞
 - [VK] https://vk.com/xab_xab
 - [E-mail] - amdandpc67890@gmail.com
+- [Telegram] - @Xablin
