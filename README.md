@@ -1,7 +1,7 @@
 
 
 ## My Skills 🔨
-C#, OOP, WPF, MS SQL Server, WinForms, Git
+C#, OOP, MS SQL Server, WinForms, Git
 
 ## Education 🎓
 - HCI NSU - 2023
