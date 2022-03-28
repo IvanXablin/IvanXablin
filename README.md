@@ -1,12 +1,9 @@
 
 
 ## My Skills 🔨
-- HTML/CSS
-- C#,
-- OOP, 
-- MS SQL Server, 
-- WinForms, 
-- Git
+- Web-stack HTML/CSS, Django
+- Desktop-stack: C#, ADO.NET, WinForms
+- Other: Git
 
 ## Education 🎓
 - HCI NSU - 2023
