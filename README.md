@@ -1,7 +1,8 @@
 
 
 ## My Skills 🔨
-- C#, 
+- HTML/CSS
+- C#,
 - OOP, 
 - MS SQL Server, 
 - WinForms, 
@@ -13,7 +14,7 @@
 ## Contacts 📞
 - [VK] https://vk.com/xab_xab
 - [E-mail] - amdandpc67890@gmail.com
-- [Telegram] - @Xablin
+- [Telegram] - @ivan_xab
 
 ## Statistics
  
