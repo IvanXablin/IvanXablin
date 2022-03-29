@@ -1,7 +1,7 @@
 
 
 ## My Skills 🔨
-- Web-stack: HTML/CSS, Django
+- Web-stack: HTML/CSS
 - Desktop-stack: C#, ADO.NET, WinForms
 - Other: Git
 
