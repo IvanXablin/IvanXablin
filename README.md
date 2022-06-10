@@ -7,6 +7,9 @@
 - SQL, MongoDB
 - Git
 
+## Deployed projects 🌍
+- [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
+
 ## Education 🎓
 - HCI NSU - 2023
 
