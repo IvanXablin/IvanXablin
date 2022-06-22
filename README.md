@@ -10,7 +10,7 @@
 ## Deployed projects 🌍
 - [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
 - [Mini widgets](https://ivanxablin.github.io/Web-exam/)
-- [layout-template](https://ivanxablin.github.io/layout-template/)
+- [Layout-template](https://ivanxablin.github.io/layout-template/)
 
 ## Education 🎓
 - HCI NSU - 2023
