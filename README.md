@@ -14,7 +14,7 @@
 - [Mini widgets](https://ivanxablin.github.io/Web-exam/)
 
 ## Layouts projects
-- [Layout-template - Piroll](https://ivanxablin.github.io/layout-template/)
+- [Layout-template - Piroll](https://ivanxablin.github.io/Layout-template-Piroll/)
 - [Layout-template - Yebo-Bicycle](https://ivanxablin.github.io/Layout-template-Yebo-Bicycle/)
 
 # Education 🎓
