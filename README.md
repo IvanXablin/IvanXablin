@@ -1,4 +1,4 @@
-## My Skills 💻
+# My Skills 💻
 
 - HTML, CSS, JS
 - React
@@ -7,19 +7,20 @@
 - SQL, MongoDB
 - Git
 
-## Deployed projects 🌍
+# Deployed projects 🌍
 
-# React projects
+## React projects
 - [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
 - [Mini widgets](https://ivanxablin.github.io/Web-exam/)
 
-# Layouts projects
-- [Layout-template](https://ivanxablin.github.io/layout-template/)
+## Layouts projects
+- [Layout-template - Piroll](https://ivanxablin.github.io/layout-template/)
+- [Layout-template - Yebo-Bicycle](https://ivanxablin.github.io/Layout-template-Yebo-Bicycle/)
 
-## Education 🎓
+# Education 🎓
 - HCI NSU - 2023
 
-## Contacts 📞
+# Contacts 📞
 - [VK] https://vk.com/xab_xab
 - [E-mail] - amdandpc67890@gmail.com
 - [Telegram] - @ivan_xab
