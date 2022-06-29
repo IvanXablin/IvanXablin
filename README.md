@@ -10,6 +10,7 @@
 # Deployed projects 🌍
 
 ## React projects
+- [SPA Star Wars Planent info](https://ivanxablin.github.io/SW-API-React/)
 - [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
 - [Mini widgets](https://ivanxablin.github.io/Web-exam/)
 
