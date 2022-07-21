@@ -5,7 +5,7 @@
 - Node JS, Express.js
 - C#, WinForms
 - SQL, MongoDB
-- Git
+- Git, GitHub Actions, ESlint
 
 # Deployed projects 🌍
 
