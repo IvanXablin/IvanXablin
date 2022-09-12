@@ -17,7 +17,7 @@
 
 ### Vanila JS projects :
 - [Todo list app](https://ivanxablin.github.io/Todo-List-App/)
-- [Registration form](https://ivanxablin.github.io/Registration-form/)
+- [Registration form](https://ivanxablin.github.io/registration-form/)
 
 ### Layouts projects:
 - [Layout-template - Piroll](https://ivanxablin.github.io/Layout-template-Piroll/)
