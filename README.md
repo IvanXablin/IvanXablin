@@ -10,7 +10,7 @@
 ## Deployed projects 🌍 :
 
 ### React projects:
-- [Personal website](https://ivanxablin.github.io/IvanXablin-Site/)
+- [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
 - [SPA Star Wars Planent info](https://ivanxablin.github.io/SW-API-React/)
 - [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
 - [Mini widgets](https://ivanxablin.github.io/Web-exam/)
