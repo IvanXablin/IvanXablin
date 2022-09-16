@@ -1,36 +1,23 @@
-## My Skills 💻 :
+<h1> HI! I'm Ivan Kondratev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  </h1>
 
-- HTML/CSS, SCSS
-- JavaScript, React.js
-- Node JS, Express.js
-- SQL, MongoDB
-- C#, WinForms
-- Git, GitHub Actions, ESlint
----
-## Deployed projects 🌍 :
+### Skills and Tools :
 
-### React projects:
-- [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
-- [SPA Star Wars Planent info](https://ivanxablin.github.io/SW-API-React/)
-- [Go Weather App](https://ivanxablin.github.io/Go-Weather-Api/)
-- [Mini widgets](https://ivanxablin.github.io/Web-exam/)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
-### Vanila JS projects :
-- [Todo list app](https://ivanxablin.github.io/Todo-List-App/)
-- [Registration form](https://ivanxablin.github.io/registration-form/)
+---
 
-### Layouts projects:
-- [Layout-template - Piroll](https://ivanxablin.github.io/Layout-template-Piroll/)
-- [Layout-template - Yebo-Bicycle](https://ivanxablin.github.io/Layout-template-Yebo-Bicycle/)
----
-## Education 🎓 :
-- HCI NSU (2019 - 2023)
----
-## Contacts 📞 :
-- [VK](https://vk.com/xab_xab)
-- [E-mail](amdandpc67890@gmail.com)
-- [Telegram](https://t.me/ivan_xab)
----
-## My Stats 📈 :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanXablin&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanXablin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<p><img  align="left"  src="https://github-readme-stats.vercel.app/api?username=IvanXablin&show_icons=true&locale=en&theme=dracula"  alt="tomitokko"  width="440"  height="165" />  </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanXablin&layout=compact&theme=dracula)]
+</div>
+
+
+
