@@ -63,6 +63,22 @@
 
 ---
 
+>  ### Projects:
+
+<table width='100%'>
+  <td align="center" width="50%">
+      <img src="https://sun9-30.userapi.com/impg/h-RMMjxxfRlvD8NKC7vXqzfDHDpFq0QB9wIhNA/eKpvezPnaQ4.jpg?size=1908x986&quality=96&sign=cb888ac133ff97e1a603a43b6f7dbc78&type=album" title="" alt="" width="410" height="220"/>
+      <br><a href="">My personal website (React + SCSS)</a>
+   </td>
+   <td align="center" width="50%">
+      <img src="https://sun9-87.userapi.com/impg/zVV679V64UePv9TKyokSBSb-rg9LJd8mvkffxA/cf4Q-BRcj9w.jpg?size=1670x867&quality=96&sign=2cf68568720e1998e83a07bb56204d47&type=album" title="" alt="" width="410" height="220"/>
+      <br><a href="https://ivanxablin.github.io/ivanxablin-website">Registration Form (Vanila JS)</a>
+   </td>
+</table>
+
+
+---
+
 <div>
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api?username=IvanXablin&show_icons=true&locale=en&theme=dracula"  alt="tomitokko"  width="440"  height="165" />  </p>
 
