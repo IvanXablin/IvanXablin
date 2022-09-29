@@ -13,6 +13,10 @@
       <br>Redux
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" title="Vue.js" alt="Vue.js" width="48" height="48"/>
+      <br>Vue.js
+   </td>
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -38,10 +42,6 @@
 
 <table width='100%'>
    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" title="Vue.js" alt="Vue.js" width="48" height="48"/>
-      <br>Vue.js
-   </td>
-      <td align="center" width="96">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
