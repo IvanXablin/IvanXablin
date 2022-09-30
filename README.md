@@ -67,7 +67,7 @@
 
 <table width='100%'>
   <td align="center" width="50%">
-      <img src="https://sun9-30.userapi.com/impg/h-RMMjxxfRlvD8NKC7vXqzfDHDpFq0QB9wIhNA/eKpvezPnaQ4.jpg?size=1908x986&quality=96&sign=cb888ac133ff97e1a603a43b6f7dbc78&type=album" title="" alt="" width="100%" height="50%"/>
+      <img src="https://sun9-29.userapi.com/impg/8YfLiFOCWKDKBvibIbr51mx_b8KooMvnxubELg/YFKmJu7ViiE.jpg?size=1918x886&quality=96&sign=4daa6fbe35b4c3ee0236d00864541c3b&type=album" title="" alt="" width="100%" height="50%"/>
       <br><a href="https://ivanxablin.github.io/ivanxablin-website">My personal website (React + SCSS)</a>
    </td>
    <td align="center" width="50%">
