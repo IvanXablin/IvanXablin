@@ -62,10 +62,10 @@
 ## Projects:
 
 - [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
-- [Github users worker](https://github.com/IvanXablin/github-users-worker)
-- [Registration form](https://github.com/IvanXablin/registration-form)
-- [Star Wars Wiki](https://github.com/IvanXablin/SW-API-React)
-- [Weather app](https://github.com/IvanXablin/Go-Weather-Api)
+- [Github users worker](https://ivanxablin.github.io/github-users-worker/)
+- [Registration form](https://ivanxablin.github.io/registration-form/)
+- [Star Wars Wiki](https://ivanxablin.github.io/SW-API-React/)
+- [Weather app](https://ivanxablin.github.io/Go-Weather-Api/)
 
 ---
 
