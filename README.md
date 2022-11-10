@@ -54,6 +54,10 @@
       <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="48" height="48"/>
       <br>Pinia    
    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" title="Nuxt.js" alt="Nuxt.js" width="48" height="48"/>
+      <br>Nuxt.js    
+   </td>
     </td>
 </table>
 
