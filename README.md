@@ -65,7 +65,7 @@
 - [Github users worker](https://ivanxablin.github.io/github-users-worker/)
 - [Registration form](https://ivanxablin.github.io/registration-form/)
 - [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
-- [Weather app](https://ivanxablin.github.io/Go-Weather-Api/)
+- [Weather app](https://ivanxablin.github.io/Go-Weather/)
 
 ---
 
