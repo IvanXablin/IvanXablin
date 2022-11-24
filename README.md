@@ -59,7 +59,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
       <br>React.js
     </td>
-     <tr>
     <td align="center" width="96">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
       <br>React Native
