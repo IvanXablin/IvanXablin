@@ -28,6 +28,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
 </table>
 
 >  ### Vue stack:
@@ -55,6 +59,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
       <br>React.js
     </td>
+     <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
+      <br>React Native
+    </td>
 </table>
 
 ---
@@ -66,6 +75,7 @@
 - [Registration form](https://ivanxablin.github.io/registration-form/)
 - [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
 - [Weather app](https://ivanxablin.github.io/Go-Weather/)
+- [Converter currency](https://ivanxablin.github.io/converter-currency/)
 
 ---
 
