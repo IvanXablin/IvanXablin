@@ -34,37 +34,6 @@
     </td>
 </table>
 
->  ### Vue stack:
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" title="Vue.js" alt="Vue.js" width="48" height="48"/>
-      <br>Vue.js
-   </td>
-    <td align="center" width="96">
-      <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="48" height="48"/>
-      <br>Pinia    
-   </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" title="Nuxt.js" alt="Nuxt.js" width="48" height="48"/>
-      <br>Nuxt.js    
-   </td>
-    </td>
-</table>
-
->  ### React stack:
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="48" height="48"/>
-      <br>React Native
-    </td>
-</table>
-
 ---
 
 ## Projects:
