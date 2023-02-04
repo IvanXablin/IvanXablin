@@ -7,20 +7,24 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
-    </td> 
+    </td>
+       <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
      <td align="center" width="96">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
       <td align="center" width="96">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      <br>Eslint
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg?uselang=ru" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -35,11 +39,10 @@
 ---
 
 ## Projects:
-
+- [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
 - [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
 - [Github users worker](https://ivanxablin.github.io/github-users-worker/)
 - [Registration form](https://ivanxablin.github.io/registration-form/)
-- [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
 - [Converter currency](https://ivanxablin.github.io/converter-currency/)
 
 ---
