@@ -20,7 +20,7 @@
     </td>
      <td align="center" width="96">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
+      <br>Scss
     </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg?uselang=ru" width="48" height="48" alt="Node.js" />
