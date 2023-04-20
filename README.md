@@ -41,7 +41,6 @@
 
 - [Dropvacancy](https://dropvacancy.ru)
 - [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
----
 
 ## Projects:
 - [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
