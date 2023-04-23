@@ -50,7 +50,7 @@
 ---
 
 <div>
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api?username=IvanXablin&show_icons=true&locale=en&theme=dracula"  alt="tomitokko"  width="440"  height="165" />  </p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanXablin&layout=compact&theme=dracula)
 </div>
