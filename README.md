@@ -40,14 +40,7 @@
 ## Top projects:
 
 - [Dropvacancy](https://dropvacancy.ru)
-- [Star Wars Wiki](https://ivanxablin.github.io/starwars-wiki/)
 
-## Projects:
-- [Personal website](https://ivanxablin.github.io/ivanxablin-website/)
-- [Github users worker](https://ivanxablin.github.io/github-users-worker/)
-- [Registration form](https://ivanxablin.github.io/registration-form/)
-- [Converter currency](https://ivanxablin.github.io/converter-currency/)
----
 
 <div>
 
