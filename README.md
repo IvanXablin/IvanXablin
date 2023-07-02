@@ -37,13 +37,6 @@
 </table>
 
 ---
-## Top projects:
-
-- [Dropvacancy](https://dropvacancy.ru)
-
-
-<div>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanXablin&layout=compact&theme=dracula)
 </div>
