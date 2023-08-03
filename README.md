@@ -23,10 +23,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
 </table>
 
 ## Backend skills:
